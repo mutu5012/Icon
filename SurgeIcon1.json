@@ -1,79 +1,23 @@
 {
-    "name": "Surge Icon",
-    "description": "Desing By Kevin",
-    "time": "2024-11-08",
+    "name": "Desing By Kevin",
     "Icons": [
-        {
-            "name": "Proxy",
-            "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon1/Proxy.png"
-        },
-        {
-            "name": "Auto",
-            "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Auto.png"
-        },
-        {
-            "name": "HongKong",
-            "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/HongKong.png"
-        },
-        {
-            "name": "Taiwan",
-            "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Taiwan.png"
-        },
-        {
-            "name": "Singapore",
-            "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Singapore.png"
-        },
-        {
-            "name": "Japan",
-            "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Japan.png"
-        },
-        {
-            "name": "UnitedStates",
-            "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/UnitedStates.png"
-        },
-        {
-            "name": "Korea",
-            "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Korea.png"
-        },
-        {
-            "name": "Other",
-            "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Other.png"
-        },
-        {
-            "name": "Ponte",
-            "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Ponte.png"
-        },
-        {
-            "name": "YouTube",
-            "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/YouTube.png"
-        },
-        {
-            "name": "Telegram",
-            "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Telegram.png"
-        },
-        {
-            "name": "Spotify",
-            "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Spotify.png"
-        },
-        {
-            "name": "Disney",
-            "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Disney.png"
-        },
-        {
-            "name": "ChatGPT",
-            "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/ChatGPT.png"
-        },
-        {
-            "name": "Netflix",
-            "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Netflix.png"
-        },
-        {
-            "name": "Server",
-            "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Server.png"
-        },
-        {
-            "name": "PayPal",
-            "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/PayPal.png"
-        }
+        {"name": "Proxy", "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon1/Proxy.png"},
+        {"name": "Auto", "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Auto.png"},
+        {"name": "HongKong", "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/HongKong.png"},
+        {"name": "Taiwan", "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Taiwan.png"},
+        {"name": "Singapore", "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Singapore.png"},
+        {"name": "Japan", "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Japan.png"},
+        {"name": "UnitedStates", "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/UnitedStates.png"},
+        {"name": "Korea", "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Korea.png"},
+        {"name": "Other", "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Other.png"},
+        {"name": "Ponte", "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Ponte.png"},
+        {"name": "YouTube","url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/YouTube.png"},
+        {"name": "Telegram", "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Telegram.png"},
+        {"name": "Spotify", "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Spotify.png"},
+        {"name": "Disney", "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Disney.png"},
+        {"name": "ChatGPT", "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/ChatGPT.png"},
+        {"name": "Netflix", "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Netflix.png"},
+        {"name": "Server", "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/Server.png"},
+        {"name": "PayPal", "url": "https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon/PayPal.png"},
     ]
 }
