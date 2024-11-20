@@ -7,5 +7,5 @@ https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon1.json
 ```
 
 ```
-https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon2.json
+就看看
 ```
