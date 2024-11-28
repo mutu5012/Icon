@@ -3,7 +3,7 @@
 
 # 食用方法
 ```
-https://raw.githubusercontent.com/emberdusk/Icon/main/SurgeIcon1.json
+https://raw.githubusercontent.com/mutu5012/Icon/main/SurgeIcon1.json
 ```
 
 ```
